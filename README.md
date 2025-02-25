@@ -37,11 +37,11 @@ Pruebas exhaustivas en laboratorio y en condiciones reales para validar la preci
 	
 ## 4. Plan de Trabajo
 
-Fase 1: Investigación, diseño conceptual y selección de componentes.
-Fase 2: Diseño detallado, construcción de prototipos y desarrollo de software base.
-Fase 3: Implementación de funcionalidades de geolocalización y asistencia.
-Fase 4: Pruebas y validación en laboratorio y en condiciones reales.
-Fase 5: Optimización del sistema y elaboración de la memoria del TFG.
+- Fase 1: Investigación, diseño conceptual y selección de componentes.
+- Fase 2: Diseño detallado, construcción de prototipos y desarrollo de software base.
+- Fase 3: Implementación de funcionalidades de geolocalización y asistencia.
+- Fase 4: Pruebas y validación en laboratorio y en condiciones reales.
+- Fase 5: Optimización del sistema y elaboración de la memoria del TFG.
 
 ## 5. Recursos
 
@@ -70,6 +70,6 @@ Se estima aproximadamente un mes para cada una de las fases del proyecto.
 
 ## 8. Impacto y Sostenibilidad
 
-Mejora de la eficiencia y precisión en la preparación de campos de regatas.
-Asistencia a la seguridad marítima.
-Potencial para la aplicación del sistema en otros ámbitos, como la monitorización de la calidad del agua y la vigilancia costera.
+* Mejora de la eficiencia y precisión en la preparación de campos de regatas.
+* Asistencia a la seguridad marítima.
+* Potencial para la aplicación del sistema en otros ámbitos, como la monitorización de la calidad del agua y la vigilancia costera.
