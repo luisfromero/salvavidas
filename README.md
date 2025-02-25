@@ -61,7 +61,8 @@ Costes estimados de los componentes, materiales y otros recursos necesarios:
 * Estructura: 10€
 * Motor principal: 50€
 * Motor de dirección: 10€
-* Total: 200€                     
+* Batería de 12v: 30€
+* Total: 230€                     
 
 ## 7. Cronograma
 
